@@ -1,0 +1,1669 @@
+{
+ "version": 1,
+ "films": {
+  "44148": {
+   "title_fr": "Arrebato",
+   "release_date": "2026-09-02",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 3,
+   "peak_seances": 3
+  },
+  "56608": {
+   "title_fr": "The Quiet Family",
+   "release_date": "2026-08-12",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 3,
+   "peak_seances": 3
+  },
+  "121982": {
+   "title_fr": "Lost Paradise",
+   "release_date": "2026-08-19",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "188280": {
+   "title_fr": "Fjord",
+   "release_date": "2026-08-19",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 730,
+   "peak_seances": 730
+  },
+  "208659": {
+   "title_fr": "Eega, la mouche vengeresse",
+   "release_date": "2026-06-28",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "257425": {
+   "title_fr": "Tad l'explorateur et la lampe magique",
+   "release_date": "2026-08-26",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 655,
+   "peak_seances": 655
+  },
+  "266720": {
+   "title_fr": "Supergirl",
+   "release_date": "2026-07-01",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 3,
+   "peak_seances": 3
+  },
+  "276608": {
+   "title_fr": "Spider-Man: Brand New Day",
+   "release_date": "2026-07-29",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 550,
+   "peak_seances": 550
+  },
+  "281912": {
+   "title_fr": "La Dernière séance",
+   "release_date": "2026-07-15",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 19,
+   "peak_seances": 19
+  },
+  "282094": {
+   "title_fr": "Gavagai, et autres malentendus",
+   "release_date": "2026-07-22",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 2,
+   "peak_seances": 2
+  },
+  "287462": {
+   "title_fr": "Seule la vie",
+   "release_date": "2026-07-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 10,
+   "peak_seances": 10
+  },
+  "289867": {
+   "title_fr": "Home stories",
+   "release_date": "2026-07-29",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 7,
+   "peak_seances": 7
+  },
+  "293636": {
+   "title_fr": "In Waves",
+   "release_date": "2026-07-01",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 34,
+   "peak_seances": 34
+  },
+  "294281": {
+   "title_fr": "La Bataille de Gaulle - Partie 2 : J’écris ton nom",
+   "release_date": "2026-06-26",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 594,
+   "peak_seances": 594
+  },
+  "295636": {
+   "title_fr": "Un champ de fraises pour l’éternité",
+   "release_date": "2026-07-01",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 8,
+   "peak_seances": 8
+  },
+  "300784": {
+   "title_fr": "La Dernière patiente",
+   "release_date": "2026-09-02",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 314,
+   "peak_seances": 314
+  },
+  "305835": {
+   "title_fr": "L'Aventure rêvée",
+   "release_date": "2026-07-15",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 19,
+   "peak_seances": 19
+  },
+  "305836": {
+   "title_fr": "Cotton Queen",
+   "release_date": "2026-08-05",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 23,
+   "peak_seances": 23
+  },
+  "306166": {
+   "title_fr": "Tommy Guns",
+   "release_date": "2026-07-29",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "308394": {
+   "title_fr": "Paradise",
+   "release_date": "2026-08-19",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 38,
+   "peak_seances": 38
+  },
+  "314290": {
+   "title_fr": "La Frappe",
+   "release_date": "2026-09-02",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 634,
+   "peak_seances": 634
+  },
+  "314503": {
+   "title_fr": "La fin d’Oak Street",
+   "release_date": "2026-08-12",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 55,
+   "peak_seances": 55
+  },
+  "314942": {
+   "title_fr": "Vaiana, la légende du bout du monde",
+   "release_date": "2026-07-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 107,
+   "peak_seances": 107
+  },
+  "315283": {
+   "title_fr": "Notre histoire - Chroniques du Caire",
+   "release_date": "2026-07-01",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 9,
+   "peak_seances": 9
+  },
+  "315380": {
+   "title_fr": "Des Minions et des monstres",
+   "release_date": "2026-06-24",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 99,
+   "peak_seances": 99
+  },
+  "316021": {
+   "title_fr": "Oklahoma Honey",
+   "release_date": "2026-08-19",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 197,
+   "peak_seances": 197
+  },
+  "316397": {
+   "title_fr": "The Opera!",
+   "release_date": "2026-09-02",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 30,
+   "peak_seances": 30
+  },
+  "316460": {
+   "title_fr": "The Last Viking",
+   "release_date": "2026-07-15",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 43,
+   "peak_seances": 43
+  },
+  "316499": {
+   "title_fr": "The Black House",
+   "release_date": "2026-08-19",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "317219": {
+   "title_fr": "L'Invitation",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 549,
+   "peak_seances": 549
+  },
+  "318226": {
+   "title_fr": "Les Survivants du Che",
+   "release_date": "2026-09-09",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 303,
+   "peak_seances": 303
+  },
+  "318365": {
+   "title_fr": "Decorado",
+   "release_date": "2026-08-26",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 50,
+   "peak_seances": 50
+  },
+  "319893": {
+   "title_fr": "Rose",
+   "release_date": "2026-09-09",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 408,
+   "peak_seances": 408
+  },
+  "320561": {
+   "title_fr": "La Fille dans les nuages",
+   "release_date": "2026-07-22",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 75,
+   "peak_seances": 75
+  },
+  "320681": {
+   "title_fr": "La Pat' Patrouille : Le film mission Dino",
+   "release_date": "2026-08-05",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 451,
+   "peak_seances": 451
+  },
+  "321354": {
+   "title_fr": "Festin boréal",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "321617": {
+   "title_fr": "Bombonera",
+   "release_date": "2026-08-26",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 23,
+   "peak_seances": 23
+  },
+  "323826": {
+   "title_fr": "Les Héros du Louvre",
+   "release_date": "2026-09-09",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "324014": {
+   "title_fr": "Histoires De La Nuit",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 663,
+   "peak_seances": 663
+  },
+  "324492": {
+   "title_fr": "Toxic - A Fairy Tale for Grown-Ups",
+   "release_date": "2026-08-26",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "325074": {
+   "title_fr": "Republic",
+   "release_date": "2026-09-29",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "325076": {
+   "title_fr": "La Ligne bleue",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 48,
+   "peak_seances": 48
+  },
+  "325471": {
+   "title_fr": "Dry Leaf",
+   "release_date": "2026-07-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "325653": {
+   "title_fr": "Noise",
+   "release_date": "2026-06-24",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "326124": {
+   "title_fr": "Le Passage",
+   "release_date": "2026-07-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 10,
+   "peak_seances": 10
+  },
+  "326465": {
+   "title_fr": "Evil Dead Burn",
+   "release_date": "2026-07-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 5,
+   "peak_seances": 5
+  },
+  "326899": {
+   "title_fr": "My Summer With Irene",
+   "release_date": "2026-06-24",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "326989": {
+   "title_fr": "Les Roches Rouges",
+   "release_date": "2026-09-23",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 135,
+   "peak_seances": 135
+  },
+  "327050": {
+   "title_fr": "Le Héros de Berlin",
+   "release_date": "2026-07-15",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 20,
+   "peak_seances": 20
+  },
+  "327309": {
+   "title_fr": "Cap Farewell",
+   "release_date": "2026-07-22",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 4,
+   "peak_seances": 4
+  },
+  "327574": {
+   "title_fr": "Soleils Atikamekw",
+   "release_date": "2026-07-22",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "327754": {
+   "title_fr": "Lydia et le vaisseau des tempêtes",
+   "release_date": "2026-08-12",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 44,
+   "peak_seances": 44
+  },
+  "327941": {
+   "title_fr": "La Vie d'une femme",
+   "release_date": "2026-09-09",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "327993": {
+   "title_fr": "L'Inconnue",
+   "release_date": "2026-08-26",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 284,
+   "peak_seances": 284
+  },
+  "328440": {
+   "title_fr": "Nightborn",
+   "release_date": "2026-07-22",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000000085": {
+   "title_fr": "Heart Of The Beast",
+   "release_date": "2026-09-23",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 751,
+   "peak_seances": 751
+  },
+  "1000002580": {
+   "title_fr": "On l'appelait Robin des Bois",
+   "release_date": "2026-07-01",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000002942": {
+   "title_fr": "Mutiny",
+   "release_date": "2026-08-19",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 150,
+   "peak_seances": 150
+  },
+  "1000003105": {
+   "title_fr": "Charlie et les kangourous",
+   "release_date": "2026-07-22",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 61,
+   "peak_seances": 61
+  },
+  "1000003998": {
+   "title_fr": "I Want Your Sex",
+   "release_date": "2026-07-29",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 6,
+   "peak_seances": 6
+  },
+  "1000004458": {
+   "title_fr": "Pressure",
+   "release_date": "2026-09-09",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 836,
+   "peak_seances": 836
+  },
+  "1000004679": {
+   "title_fr": "Les Ensorceleuses 2",
+   "release_date": "2026-09-09",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 451,
+   "peak_seances": 451
+  },
+  "1000007567": {
+   "title_fr": "Hanami",
+   "release_date": "2026-07-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 15,
+   "peak_seances": 15
+  },
+  "1000008200": {
+   "title_fr": "Jour de chasse",
+   "release_date": "2026-08-05",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000008894": {
+   "title_fr": "Lesvia",
+   "release_date": "2026-09-22",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "1000010002": {
+   "title_fr": "Miss Mermaid",
+   "release_date": "2026-07-01",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 4,
+   "peak_seances": 4
+  },
+  "1000010367": {
+   "title_fr": "Main Theme",
+   "release_date": "2026-08-19",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000012310": {
+   "title_fr": "Adieu monde cruel",
+   "release_date": "2026-09-09",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 280,
+   "peak_seances": 280
+  },
+  "1000012579": {
+   "title_fr": "L’Étrangère",
+   "release_date": "2026-06-24",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 14,
+   "peak_seances": 14
+  },
+  "1000012876": {
+   "title_fr": "Les Madeleines",
+   "release_date": "2026-07-22",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000012946": {
+   "title_fr": "Eruption",
+   "release_date": "2026-06-24",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000012952": {
+   "title_fr": "Kyma, l’onde mystérieuse",
+   "release_date": "2026-08-05",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 5,
+   "peak_seances": 5
+  },
+  "1000013045": {
+   "title_fr": "L'Odyssée",
+   "release_date": "2026-07-15",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 537,
+   "peak_seances": 537
+  },
+  "1000013908": {
+   "title_fr": "Primetime",
+   "release_date": "2026-09-23",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 137,
+   "peak_seances": 137
+  },
+  "1000014102": {
+   "title_fr": "Kayara, Princesse inca",
+   "release_date": "2026-07-15",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 22,
+   "peak_seances": 22
+  },
+  "1000014136": {
+   "title_fr": "Maoussi",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 14,
+   "peak_seances": 14
+  },
+  "1000014327": {
+   "title_fr": "Sous le ciel de Kyoto",
+   "release_date": "2026-07-22",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 5,
+   "peak_seances": 5
+  },
+  "1000014638": {
+   "title_fr": "Sham",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 168,
+   "peak_seances": 168
+  },
+  "1000014969": {
+   "title_fr": "The Dog Stars",
+   "release_date": "2026-08-26",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 442,
+   "peak_seances": 442
+  },
+  "1000015418": {
+   "title_fr": "Le Berger et les ours",
+   "release_date": "2026-07-15",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 21,
+   "peak_seances": 21
+  },
+  "1000016503": {
+   "title_fr": "Insidious : l'invasion du lointain",
+   "release_date": "2026-08-19",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 282,
+   "peak_seances": 282
+  },
+  "1000017047": {
+   "title_fr": "D'où vient le vent",
+   "release_date": "2026-07-15",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 16,
+   "peak_seances": 16
+  },
+  "1000017160": {
+   "title_fr": "Maspalomas",
+   "release_date": "2026-06-24",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 7,
+   "peak_seances": 7
+  },
+  "1000017192": {
+   "title_fr": "Sur la route d'Omaha",
+   "release_date": "2026-07-22",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 29,
+   "peak_seances": 29
+  },
+  "1000017497": {
+   "title_fr": "André Is An Idiot",
+   "release_date": "2026-07-01",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 2,
+   "peak_seances": 2
+  },
+  "1000018041": {
+   "title_fr": "Seuls les rebelles",
+   "release_date": "2026-06-24",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000018551": {
+   "title_fr": "The Good Sister",
+   "release_date": "2026-09-02",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 93,
+   "peak_seances": 93
+  },
+  "1000018854": {
+   "title_fr": "Resident Evil",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 482,
+   "peak_seances": 482
+  },
+  "1000019327": {
+   "title_fr": "Les Matins merveilleux",
+   "release_date": "2026-07-29",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 46,
+   "peak_seances": 46
+  },
+  "1000019382": {
+   "title_fr": "Une aube nouvelle",
+   "release_date": "2026-08-12",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 18,
+   "peak_seances": 18
+  },
+  "1000019673": {
+   "title_fr": "Les Silences de Riyad",
+   "release_date": "2026-08-05",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 12,
+   "peak_seances": 12
+  },
+  "1000019736": {
+   "title_fr": "Nimrods : A Green Day Comedy",
+   "release_date": "2026-09-04",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000019764": {
+   "title_fr": "The Ugly",
+   "release_date": "2026-07-29",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 5,
+   "peak_seances": 5
+  },
+  "1000019852": {
+   "title_fr": "Trois adieux",
+   "release_date": "2026-09-02",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 416,
+   "peak_seances": 416
+  },
+  "1000019874": {
+   "title_fr": "Les Contrebandiers",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 494,
+   "peak_seances": 494
+  },
+  "1000019899": {
+   "title_fr": "Juste pour une nuit",
+   "release_date": "2026-08-12",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 11,
+   "peak_seances": 11
+  },
+  "1000020330": {
+   "title_fr": "Les Parfait(s) : arnaques en famille",
+   "release_date": "2026-06-24",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 2,
+   "peak_seances": 2
+  },
+  "1000020491": {
+   "title_fr": "Undertone",
+   "release_date": "2026-08-12",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 5,
+   "peak_seances": 5
+  },
+  "1000020779": {
+   "title_fr": "The Paradise",
+   "release_date": "2026-09-24",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 29,
+   "peak_seances": 29
+  },
+  "1000021763": {
+   "title_fr": "Billie Melody",
+   "release_date": "2026-09-09",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 213,
+   "peak_seances": 213
+  },
+  "1000021764": {
+   "title_fr": "Permis de détruire",
+   "release_date": "2026-07-01",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 4,
+   "peak_seances": 4
+  },
+  "1000021803": {
+   "title_fr": "Oasis: Don't Look Back In Anger",
+   "release_date": "2026-09-09",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000022217": {
+   "title_fr": "Marius et le Royaume des mers",
+   "release_date": "2026-08-19",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 93,
+   "peak_seances": 93
+  },
+  "1000022260": {
+   "title_fr": "Salvation",
+   "release_date": "2026-09-02",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 195,
+   "peak_seances": 195
+  },
+  "1000022261": {
+   "title_fr": "Gorgonà",
+   "release_date": "2026-07-22",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "1000022312": {
+   "title_fr": "Les Caprices de l’Enfant Roi",
+   "release_date": "2026-06-24",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 11,
+   "peak_seances": 11
+  },
+  "1000022452": {
+   "title_fr": "La Fille Condor",
+   "release_date": "2026-08-19",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 42,
+   "peak_seances": 42
+  },
+  "1000022546": {
+   "title_fr": "Les Gendarmes",
+   "release_date": "2026-08-05",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 45,
+   "peak_seances": 45
+  },
+  "1000022999": {
+   "title_fr": "Entroncamento",
+   "release_date": "2026-07-01",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 3,
+   "peak_seances": 3
+  },
+  "1000023007": {
+   "title_fr": "Des Fleurs pour Tokyo",
+   "release_date": "2026-08-05",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 12,
+   "peak_seances": 12
+  },
+  "1000023324": {
+   "title_fr": "Mandaadi",
+   "release_date": "2026-09-10",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 6,
+   "peak_seances": 6
+  },
+  "1000023438": {
+   "title_fr": "Her Private Hell",
+   "release_date": "2026-09-23",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 40,
+   "peak_seances": 40
+  },
+  "1000023495": {
+   "title_fr": "Ma famille de samouraïs",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 304,
+   "peak_seances": 304
+  },
+  "1000023845": {
+   "title_fr": "Vvaan",
+   "release_date": "2026-09-25",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "1000024105": {
+   "title_fr": "Soudain",
+   "release_date": "2026-08-12",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 257,
+   "peak_seances": 257
+  },
+  "1000024164": {
+   "title_fr": "The Holy Boy",
+   "release_date": "2026-09-02",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 14,
+   "peak_seances": 14
+  },
+  "1000025598": {
+   "title_fr": "La Chaleur",
+   "release_date": "2026-07-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 11,
+   "peak_seances": 11
+  },
+  "1000026039": {
+   "title_fr": "Garance",
+   "release_date": "2026-09-23",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 621,
+   "peak_seances": 621
+  },
+  "1000026622": {
+   "title_fr": "Raison et sentiments",
+   "release_date": "2026-09-23",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 295,
+   "peak_seances": 295
+  },
+  "1000027149": {
+   "title_fr": "Blue Heron",
+   "release_date": "2026-06-24",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 6,
+   "peak_seances": 6
+  },
+  "1000027153": {
+   "title_fr": "The Fin",
+   "release_date": "2026-07-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000027155": {
+   "title_fr": "Hair, Paper, Water...",
+   "release_date": "2026-09-09",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 27,
+   "peak_seances": 27
+  },
+  "1000027224": {
+   "title_fr": "Le Chantier",
+   "release_date": "2026-08-05",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 2,
+   "peak_seances": 2
+  },
+  "1000027832": {
+   "title_fr": "Ghost Elephants",
+   "release_date": "2026-07-01",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 9,
+   "peak_seances": 9
+  },
+  "1000027856": {
+   "title_fr": "Girl",
+   "release_date": "2026-08-05",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 6,
+   "peak_seances": 6
+  },
+  "1000028074": {
+   "title_fr": "Écrire la vie : Annie Ernaux racontée par des lycéennes et des lycéens",
+   "release_date": "2026-09-23",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 48,
+   "peak_seances": 48
+  },
+  "1000028076": {
+   "title_fr": "Memory Of Princess Mumbi",
+   "release_date": "2026-08-26",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 19,
+   "peak_seances": 19
+  },
+  "1000028176": {
+   "title_fr": "Kill Bill: The Whole Bloody Affair",
+   "release_date": "2026-07-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 51,
+   "peak_seances": 51
+  },
+  "1000028944": {
+   "title_fr": "Justin le Juste",
+   "release_date": "2026-09-23",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 777,
+   "peak_seances": 777
+  },
+  "1000029051": {
+   "title_fr": "New Group",
+   "release_date": "2026-08-26",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 3,
+   "peak_seances": 3
+  },
+  "1000029301": {
+   "title_fr": "Chicas tristes",
+   "release_date": "2026-08-12",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 23,
+   "peak_seances": 23
+  },
+  "1000030390": {
+   "title_fr": "Microstar",
+   "release_date": "2026-07-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000030749": {
+   "title_fr": "The Sea",
+   "release_date": "2026-09-09",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 25,
+   "peak_seances": 25
+  },
+  "1000030962": {
+   "title_fr": "Que Ton Règne Vienne - Une histoire du satanisme en France",
+   "release_date": "2026-08-19",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000031132": {
+   "title_fr": "11 rue Denver",
+   "release_date": "2026-06-24",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "1000031160": {
+   "title_fr": "Le Triangle d'or",
+   "release_date": "2026-07-29",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 24,
+   "peak_seances": 24
+  },
+  "1000031730": {
+   "title_fr": "Flush",
+   "release_date": "2026-09-09",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 25,
+   "peak_seances": 25
+  },
+  "1000032278": {
+   "title_fr": "Face à la mer",
+   "release_date": "2026-08-26",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 19,
+   "peak_seances": 19
+  },
+  "1000032856": {
+   "title_fr": "Tombé du ciel",
+   "release_date": "2026-08-12",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 746,
+   "peak_seances": 746
+  },
+  "1000033564": {
+   "title_fr": "Hamlet (Comédie-Française)",
+   "release_date": "2026-09-15",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 11,
+   "peak_seances": 11
+  },
+  "1000033718": {
+   "title_fr": "La Nirvana",
+   "release_date": "2026-08-19",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 74,
+   "peak_seances": 74
+  },
+  "1000033875": {
+   "title_fr": "Khalifa",
+   "release_date": "2026-08-20",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000034332": {
+   "title_fr": "Une affaire turque",
+   "release_date": "2026-08-12",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 46,
+   "peak_seances": 46
+  },
+  "1000034818": {
+   "title_fr": "Gouffres et merveilles",
+   "release_date": "2026-09-02",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 21,
+   "peak_seances": 21
+  },
+  "1000035490": {
+   "title_fr": "Laissez-nous les clés",
+   "release_date": "2026-07-01",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 7,
+   "peak_seances": 7
+  },
+  "1000036604": {
+   "title_fr": "I'm Game",
+   "release_date": "2026-09-03",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000037046": {
+   "title_fr": "De la Comédie-Française",
+   "release_date": "2026-07-22",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 339,
+   "peak_seances": 339
+  },
+  "1000037129": {
+   "title_fr": "South Bound",
+   "release_date": "2026-08-19",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000037432": {
+   "title_fr": "La Providence et la Guitare",
+   "release_date": "2026-08-19",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 10,
+   "peak_seances": 10
+  },
+  "1000037463": {
+   "title_fr": "Fouilles",
+   "release_date": "2026-09-17",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "1000037846": {
+   "title_fr": "Détective Conan : L'Ange déchu de l'asphalte",
+   "release_date": "2026-09-23",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 71,
+   "peak_seances": 71
+  },
+  "1000039379": {
+   "title_fr": "Le concert d'été 2026 d'André Rieu : Viva Maastricht !",
+   "release_date": "2026-08-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "1000039625": {
+   "title_fr": "Dégel",
+   "release_date": "2026-08-26",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 165,
+   "peak_seances": 165
+  },
+  "1000040001": {
+   "title_fr": "Li Chevalier Encre et Âme",
+   "release_date": "2026-09-26",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "1000040166": {
+   "title_fr": "L’Écologie des sentiments",
+   "release_date": "2026-07-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 2,
+   "peak_seances": 2
+  },
+  "1000040592": {
+   "title_fr": "Irumudi",
+   "release_date": "2026-08-21",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000040920": {
+   "title_fr": "Connaissance du monde : Terres d'Italie - Entre mer et montagne : Pouilles, Ombri, Dolomites",
+   "release_date": "2026-09-01",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000041095": {
+   "title_fr": "Chien bleu et autres belles histoires de l'école des loisirs",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 355,
+   "peak_seances": 355
+  },
+  "1000041528": {
+   "title_fr": "Un grand raccourci",
+   "release_date": "2026-08-12",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 95,
+   "peak_seances": 95
+  },
+  "1000042175": {
+   "title_fr": "Artus - Le Show XXL au cinéma",
+   "release_date": "2026-09-24",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 447,
+   "peak_seances": 447
+  },
+  "1000042782": {
+   "title_fr": "Arcobaleno",
+   "release_date": "2026-08-12",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "1000042891": {
+   "title_fr": "La Vie en relief - Jacques Henri Lartigue",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 68,
+   "peak_seances": 68
+  },
+  "1000042927": {
+   "title_fr": "Les Éléphants dans la brume",
+   "release_date": "2026-09-23",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 202,
+   "peak_seances": 202
+  },
+  "1000043030": {
+   "title_fr": "Commis d'office",
+   "release_date": "2026-09-09",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 3,
+   "peak_seances": 3
+  },
+  "1000043086": {
+   "title_fr": "Comète",
+   "release_date": "2026-07-15",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 3,
+   "peak_seances": 3
+  },
+  "1000043221": {
+   "title_fr": "Si tu penses bien",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 604,
+   "peak_seances": 604
+  },
+  "1000043299": {
+   "title_fr": "Lost in Territories",
+   "release_date": "2026-07-29",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000043505": {
+   "title_fr": "Maquisards",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 6,
+   "peak_seances": 6
+  },
+  "1000043585": {
+   "title_fr": "Entre ciel et terre",
+   "release_date": "2026-07-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 79,
+   "peak_seances": 79
+  },
+  "1000043595": {
+   "title_fr": "Une musique à vivre",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 4,
+   "peak_seances": 4
+  },
+  "1000043839": {
+   "title_fr": "Julien Doré - Le Dernier pestacle",
+   "release_date": "2026-07-02",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000044253": {
+   "title_fr": "Lettres d'amour de ma grand-mère",
+   "release_date": "2026-09-02",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 43,
+   "peak_seances": 43
+  },
+  "1000044689": {
+   "title_fr": "Les Vacances de Golo & Ritchie",
+   "release_date": "2026-07-22",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 2,
+   "peak_seances": 2
+  },
+  "1000044751": {
+   "title_fr": "La nuit de l’enfance",
+   "release_date": "2026-09-25",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "1000045286": {
+   "title_fr": "Un amour d’épouvantail",
+   "release_date": "2026-09-23",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 259,
+   "peak_seances": 259
+  },
+  "1000045383": {
+   "title_fr": "Bleach : Thousand-Year Blood War - The Calamity",
+   "release_date": "2026-06-27",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000045581": {
+   "title_fr": "Le Cygne et l'enfant",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 168,
+   "peak_seances": 168
+  },
+  "1000045609": {
+   "title_fr": "Katy Perry: The Lifetimes Tour - Live from Paris",
+   "release_date": "2026-09-03",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000046046": {
+   "title_fr": "Autour de Lucio",
+   "release_date": "2026-07-01",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 3,
+   "peak_seances": 3
+  },
+  "1000046176": {
+   "title_fr": "James McNeill Whistler",
+   "release_date": "2026-09-29",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 11,
+   "peak_seances": 11
+  },
+  "1000046253": {
+   "title_fr": "Haute solitude, Jean Zay prisonnier politique",
+   "release_date": "2026-09-23",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 11,
+   "peak_seances": 11
+  },
+  "1000046254": {
+   "title_fr": "The Transformers: The Movie 40th Anniversary",
+   "release_date": "2026-09-17",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000046374": {
+   "title_fr": "WHAM! 10 Days In China",
+   "release_date": "2026-07-28",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000046436": {
+   "title_fr": "Le premier rôle",
+   "release_date": "2026-07-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000046836": {
+   "title_fr": "Enfants de Palestine – Deux histoires de Cisjordanie",
+   "release_date": "2026-07-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 5,
+   "peak_seances": 5
+  },
+  "1000046992": {
+   "title_fr": "Mon premier cinéma avec Les Trois Bricochons",
+   "release_date": "2026-07-01",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 2,
+   "peak_seances": 2
+  },
+  "1000047054": {
+   "title_fr": "Anesthesia",
+   "release_date": "2026-06-24",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 11,
+   "peak_seances": 11
+  },
+  "1000047303": {
+   "title_fr": "Katseye : Wild Hearts",
+   "release_date": "2026-08-15",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000047486": {
+   "title_fr": "Amour(s)",
+   "release_date": "2026-09-02",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 6,
+   "peak_seances": 6
+  },
+  "1000047849": {
+   "title_fr": "Retour avant 15 heures",
+   "release_date": "2026-09-02",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 9,
+   "peak_seances": 9
+  },
+  "1000048049": {
+   "title_fr": "Les Vagues dans les yeux",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "1000048132": {
+   "title_fr": "Ateez : Light The Way in cinemas",
+   "release_date": "2026-08-06",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000048157": {
+   "title_fr": "Backrooms : tout doit disparaître",
+   "release_date": "2026-07-08",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "1000048319": {
+   "title_fr": "Fini de rire ! L'humour politique au garde-à-vous ?",
+   "release_date": "2026-09-23",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 155,
+   "peak_seances": 155
+  },
+  "1000049013": {
+   "title_fr": "Daayra",
+   "release_date": "2026-09-18",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "1000049021": {
+   "title_fr": "GHOST: 2 Big To Rig",
+   "release_date": "2026-08-27",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000049118": {
+   "title_fr": "Hanuman Ansh",
+   "release_date": "2026-09-16",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000049968": {
+   "title_fr": "Modha Rathiri",
+   "release_date": "2026-08-21",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000050408": {
+   "title_fr": "Once More",
+   "release_date": "2026-08-28",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000050695": {
+   "title_fr": "Anbil Avan",
+   "release_date": "2026-09-25",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000051168": {
+   "title_fr": "Popitsa - Paris - La Lune",
+   "release_date": "2026-09-23",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "1000051176": {
+   "title_fr": "Échos de l'Histoire Asiatique",
+   "release_date": "2026-09-18",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000051178": {
+   "title_fr": "Horizons de l'Asie Contemporaine",
+   "release_date": "2026-09-18",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000051460": {
+   "title_fr": "Danser pour Exister",
+   "release_date": "2026-07-31",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  },
+  "1000051542": {
+   "title_fr": "Dorothy",
+   "release_date": "2026-09-25",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 6,
+   "peak_seances": 6
+  },
+  "1000051923": {
+   "title_fr": "Meesaya Murukku 2",
+   "release_date": "2026-09-25",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 26,
+   "peak_seances": 26
+  },
+  "1000052225": {
+   "title_fr": "Sous les anneaux de Saturne",
+   "release_date": "2026-09-28",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 1,
+   "peak_seances": 1
+  },
+  "1000052387": {
+   "title_fr": "Ailleurs",
+   "release_date": "2026-09-20",
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-09-23",
+   "last_seances": 0,
+   "peak_seances": 0
+  }
+ }
+}

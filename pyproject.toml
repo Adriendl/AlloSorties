@@ -1,0 +1,24 @@
+[project]
+name = "sorties-fr"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "Adrien de Lestapis", email = "adrien.delestapis@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28.1",
+    "pydantic>=2.13.5",
+    "rapidfuzz>=3.14.6",
+    "selectolax>=0.4.12",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.18,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "respx>=0.23.1",
+]
