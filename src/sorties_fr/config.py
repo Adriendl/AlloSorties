@@ -16,7 +16,7 @@ AGENDA_URL = "https://www.allocine.fr/film/agenda/sem-{date}/"
 REPO_URL = os.environ.get("SORTIES_FR_REPO_URL") or (
     f"https://github.com/{os.environ['GITHUB_REPOSITORY']}"
     if os.environ.get("GITHUB_REPOSITORY")
-    else "https://github.com/<user>/<repo>"
+    else "https://github.com/Adriendl/AlloSorties"
 )
 USER_AGENT = f"sorties-fr-stremio/1.0 (usage personnel; +{REPO_URL})"
 
@@ -34,8 +34,13 @@ DIST_DIR = ROOT / "dist"
 STATE_PATH = DATA_DIR / "state.json"
 OVERRIDES_PATH = DATA_DIR / "overrides.json"
 
-# Stremio.
+# Stremio. Incrémenter MANIFEST_VERSION à chaque changement du manifest.
+MANIFEST_VERSION = "1.0.0"
 ADDON_ID = "perso.sorties-fr.allocine"
 CATALOG_ID = "sorties-fr"
 CATALOG_NAME = "Dernières sorties en France"
 PAGE_SIZE = 100
+
+# Garde-fous avant publication (§8).
+MIN_CATALOG_SIZE = 20
+MAX_CATALOG_DROP = 0.5

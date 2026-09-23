@@ -1,0 +1,62 @@
+name: Build & deploy
+
+on:
+  schedule:
+    # Mercredi et jeudi matin (UTC) : nouvelles sorties du mercredi + rattrapage.
+    - cron: "17 6 * * 3"
+    - cron: "17 6 * * 4"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: astral-sh/setup-uv@v10
+        with:
+          enable-cache: true
+
+      - name: Python + dépendances
+        run: uv sync --locked --python 3.12
+
+      - name: Tests
+        run: uv run pytest -q
+
+      - name: Pipeline
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: uv run python -m sorties_fr.main --refresh-all
+
+      - name: Commit de data/state.json
+        run: |
+          if git diff --quiet -- data/state.json; then
+            echo "state.json inchangé"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/state.json
+            git commit -m "Mise à jour de l'historique des séances ($(date -u +%F))"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v6
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+      - id: deployment
+        uses: actions/deploy-pages@v5

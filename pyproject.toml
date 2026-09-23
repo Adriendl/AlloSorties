@@ -1,7 +1,7 @@
 [project]
 name = "sorties-fr"
 version = "0.1.0"
-description = "Add your description here"
+description = "Addon Stremio statique : dernières sorties ciné en France (agenda Allociné)"
 authors = [
     { name = "Adrien de Lestapis", email = "adrien.delestapis@gmail.com" }
 ]
