@@ -87,3 +87,14 @@ def test_card_with_unreadable_date():
     title = '<a class="meta-title-link" href="/film/fichefilm_gen_cfilm=42.html">Y</a>'
     [film] = parse_agenda(CARD.format(title=title, date="Prochainement"), WEEK)
     assert film.release_date is None
+
+
+def test_seances_with_thousands_separator():
+    title = '<a class="meta-title-link" href="/film/fichefilm_gen_cfilm=42.html">Y</a>'
+    for raw, expected in [("1\u202f051", 1051), ("1\u00a0051", 1051), ("1 051", 1051), ("1.051", 1051), ("12", 12)]:
+        html = CARD.format(title=title, date="").replace(
+            "</div>\n</div>",
+            f'</div><div class="buttons-holder"><span class="txt">Séances ({raw})</span></div>\n</div>',
+        )
+        [film] = parse_agenda(html, WEEK)
+        assert film.seances == expected, raw

@@ -76,6 +76,10 @@ lancement (amorçage) ne voit que le compteur courant : les films sortis il y a 
 sont sous-évalués jusqu'à ce que l'historique se constitue. L'écart `last_seances` / `peak_seances`
 dans `data/state.json` permettra de suivre l'évolution d'une semaine à l'autre.
 
+**Confirmé par l'historique** (exécutions CI du 23/09 au 01/10/2026) : L'Odyssée passe de
+537 à 537, 459 puis 429 séances, et The Last Viking de 43 à 43, 40 puis 36. Au 01/10,
+119 films sur 228 ont un compteur courant inférieur à leur pic observé.
+
 ## Lancement local
 
 Prérequis : [uv](https://docs.astral.sh/uv/) (Python 3.12 est installé automatiquement).

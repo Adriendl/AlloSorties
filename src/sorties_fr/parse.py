@@ -17,7 +17,9 @@ log = logging.getLogger(__name__)
 _CFILM_RE = re.compile(r"fichefilm_gen_cfilm=(\d+)")
 # Autres liens de la carte portant l'identifiant (fiche critiques, séances).
 _CFILM_ALT_RE = re.compile(r"/(?:fichefilm|film)-(\d+)/")
-_SEANCES_RE = re.compile(r"Séances\s*\((\d+)\)")
+# « Séances (592) », « Séances (1 051) » : séparateur de milliers (espace fine insécable U+202F,
+# espace insécable, point) possible au-delà de 999.
+_SEANCES_RE = re.compile(r"Séances\s*\((\d[\d\s\u00a0\u202f.]*)\)")
 _ENTITIES_RE = re.compile(r"var jsEntities\s*=\s*(\{.*?\});\s*$", re.MULTILINE)
 
 
@@ -140,7 +142,7 @@ def parse_card(card: Node, agenda_week: date) -> AgendaFilm | None:
     seances = 0
     for btn in card.css(".buttons-holder .txt, .buttons-holder .button"):
         if m := _SEANCES_RE.search(_text(btn)):
-            seances = int(m.group(1))
+            seances = int(re.sub(r"\D", "", m.group(1)))
             break
 
     poster_url = None
