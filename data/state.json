@@ -1,15 +1,15 @@
 {
  "version": 1,
  "last_run": {
-  "date": "2026-10-14",
-  "catalog_size": 171
+  "date": "2026-10-15",
+  "catalog_size": 162
  },
  "films": {
   "44148": {
    "title_fr": "Arrebato",
    "release_date": "2026-09-02",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 3,
    "peak_seances": 4,
    "tmdb": {
@@ -25,7 +25,7 @@
    "title_fr": "The Quiet Family",
    "release_date": "2026-08-12",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 3,
    "tmdb": {
@@ -41,7 +41,7 @@
    "title_fr": "Lost Paradise",
    "release_date": "2026-08-19",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 1,
    "tmdb": {
@@ -57,8 +57,8 @@
    "title_fr": "Fjord",
    "release_date": "2026-08-19",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 89,
+   "last_seen": "2026-10-15",
+   "last_seances": 80,
    "peak_seances": 730,
    "tmdb": {
     "status": "ok",
@@ -89,7 +89,7 @@
    "title_fr": "Tad l'explorateur et la lampe magique",
    "release_date": "2026-08-26",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 245,
    "peak_seances": 655,
    "tmdb": {
@@ -121,7 +121,7 @@
    "title_fr": "Volcans : Plongez au cœur du cratère",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -137,8 +137,8 @@
    "title_fr": "Spider-Man: Brand New Day",
    "release_date": "2026-07-29",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 242,
+   "last_seen": "2026-10-15",
+   "last_seances": 210,
    "peak_seances": 550,
    "tmdb": {
     "status": "ok",
@@ -169,7 +169,7 @@
    "title_fr": "Gavagai, et autres malentendus",
    "release_date": "2026-07-22",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 2,
    "tmdb": {
@@ -185,9 +185,9 @@
    "title_fr": "L'Espèce explosive",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
-   "last_seances": 234,
-   "peak_seances": 234,
+   "last_seen": "2026-10-15",
+   "last_seances": 246,
+   "peak_seances": 246,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-07",
@@ -217,7 +217,7 @@
    "title_fr": "Home stories",
    "release_date": "2026-07-29",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 7,
    "tmdb": {
@@ -281,9 +281,9 @@
    "title_fr": "Ton animal maternel",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
-   "last_seances": 117,
-   "peak_seances": 117,
+   "last_seen": "2026-10-15",
+   "last_seances": 120,
+   "peak_seances": 120,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-07",
@@ -297,8 +297,8 @@
    "title_fr": "La Dernière patiente",
    "release_date": "2026-09-02",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 18,
+   "last_seen": "2026-10-15",
+   "last_seances": 14,
    "peak_seances": 314,
    "tmdb": {
     "status": "ok",
@@ -313,9 +313,9 @@
    "title_fr": "Joyeuse Jungle !",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
-   "last_seances": 345,
-   "peak_seances": 345,
+   "last_seen": "2026-10-15",
+   "last_seances": 355,
+   "peak_seances": 355,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-07",
@@ -345,7 +345,7 @@
    "title_fr": "Cotton Queen",
    "release_date": "2026-08-05",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 9,
    "peak_seances": 23,
    "tmdb": {
@@ -361,7 +361,7 @@
    "title_fr": "Tommy Guns",
    "release_date": "2026-07-29",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 2,
    "tmdb": {
@@ -377,8 +377,8 @@
    "title_fr": "Paradise",
    "release_date": "2026-08-19",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 5,
+   "last_seen": "2026-10-15",
+   "last_seances": 3,
    "peak_seances": 38,
    "tmdb": {
     "status": "ok",
@@ -393,8 +393,8 @@
    "title_fr": "Délivre-nous du Mal",
    "release_date": "2026-09-30",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
-   "last_seances": 11,
+   "last_seen": "2026-10-15",
+   "last_seances": 8,
    "peak_seances": 153,
    "tmdb": {
     "status": "failed",
@@ -408,9 +408,9 @@
    "title_fr": "Butterfly Jam",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
-   "last_seances": 89,
-   "peak_seances": 89,
+   "last_seen": "2026-10-15",
+   "last_seances": 91,
+   "peak_seances": 91,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-07",
@@ -424,8 +424,8 @@
    "title_fr": "La Frappe",
    "release_date": "2026-09-02",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 50,
+   "last_seen": "2026-10-15",
+   "last_seances": 40,
    "peak_seances": 634,
    "tmdb": {
     "status": "ok",
@@ -440,8 +440,8 @@
    "title_fr": "La fin d’Oak Street",
    "release_date": "2026-08-12",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 6,
+   "last_seen": "2026-10-15",
+   "last_seances": 7,
    "peak_seances": 56,
    "tmdb": {
     "status": "ok",
@@ -456,9 +456,9 @@
    "title_fr": "Street Fighter",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
-   "last_seances": 391,
-   "peak_seances": 391,
+   "last_seen": "2026-10-15",
+   "last_seances": 395,
+   "peak_seances": 395,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-14",
@@ -520,8 +520,8 @@
    "title_fr": "Oklahoma Honey",
    "release_date": "2026-08-19",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 16,
+   "last_seen": "2026-10-15",
+   "last_seances": 14,
    "peak_seances": 197,
    "tmdb": {
     "status": "ok",
@@ -536,7 +536,7 @@
    "title_fr": "The Opera!",
    "release_date": "2026-09-02",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 30,
    "tmdb": {
@@ -568,7 +568,7 @@
    "title_fr": "The Black House",
    "release_date": "2026-08-19",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -584,8 +584,8 @@
    "title_fr": "L'Invitation",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 199,
+   "last_seen": "2026-10-15",
+   "last_seances": 137,
    "peak_seances": 661,
    "tmdb": {
     "status": "ok",
@@ -600,8 +600,8 @@
    "title_fr": "Les Survivants du Che",
    "release_date": "2026-09-09",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 124,
+   "last_seen": "2026-10-15",
+   "last_seances": 92,
    "peak_seances": 340,
    "tmdb": {
     "status": "ok",
@@ -616,7 +616,7 @@
    "title_fr": "Decorado",
    "release_date": "2026-08-26",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 13,
    "peak_seances": 51,
    "tmdb": {
@@ -632,9 +632,9 @@
    "title_fr": "Englouti",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
-   "last_seances": 273,
-   "peak_seances": 273,
+   "last_seen": "2026-10-15",
+   "last_seances": 280,
+   "peak_seances": 280,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-14",
@@ -648,8 +648,8 @@
    "title_fr": "Rose",
    "release_date": "2026-09-09",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 157,
+   "last_seen": "2026-10-15",
+   "last_seances": 101,
    "peak_seances": 433,
    "tmdb": {
     "status": "ok",
@@ -664,8 +664,8 @@
    "title_fr": "La Fille dans les nuages",
    "release_date": "2026-07-22",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 54,
+   "last_seen": "2026-10-15",
+   "last_seances": 53,
    "peak_seances": 78,
    "tmdb": {
     "status": "ok",
@@ -680,7 +680,7 @@
    "title_fr": "La Pat' Patrouille : Le film mission Dino",
    "release_date": "2026-08-05",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 174,
    "peak_seances": 451,
    "tmdb": {
@@ -696,7 +696,7 @@
    "title_fr": "Festin boréal",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 1,
    "tmdb": {
@@ -712,7 +712,7 @@
    "title_fr": "Bombonera",
    "release_date": "2026-08-26",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 7,
    "peak_seances": 23,
    "tmdb": {
@@ -728,9 +728,9 @@
    "title_fr": "Le Corset",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
-   "last_seances": 804,
-   "peak_seances": 804,
+   "last_seen": "2026-10-15",
+   "last_seances": 825,
+   "peak_seances": 825,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-14",
@@ -744,8 +744,8 @@
    "title_fr": "Les Héros du Louvre",
    "release_date": "2026-09-09",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 184,
+   "last_seen": "2026-10-15",
+   "last_seances": 149,
    "peak_seances": 991,
    "tmdb": {
     "status": "ok",
@@ -760,8 +760,8 @@
    "title_fr": "Histoires De La Nuit",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 262,
+   "last_seen": "2026-10-15",
+   "last_seances": 183,
    "peak_seances": 835,
    "tmdb": {
     "status": "ok",
@@ -776,7 +776,7 @@
    "title_fr": "Toxic - A Fairy Tale for Grown-Ups",
    "release_date": "2026-08-26",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -792,7 +792,7 @@
    "title_fr": "Republic",
    "release_date": "2026-09-29",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 1,
    "tmdb": {
@@ -807,8 +807,8 @@
    "title_fr": "La Ligne bleue",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 25,
+   "last_seen": "2026-10-15",
+   "last_seances": 23,
    "peak_seances": 49,
    "tmdb": {
     "status": "ok",
@@ -871,9 +871,9 @@
    "title_fr": "Les Misérables",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
-   "last_seances": 928,
-   "peak_seances": 928,
+   "last_seen": "2026-10-15",
+   "last_seances": 951,
+   "peak_seances": 951,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-14",
@@ -919,7 +919,7 @@
    "title_fr": "Les Roches Rouges",
    "release_date": "2026-09-23",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 182,
    "peak_seances": 215,
    "tmdb": {
@@ -951,9 +951,9 @@
    "title_fr": "Digger",
    "release_date": "2026-09-30",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
-   "last_seances": 971,
-   "peak_seances": 971,
+   "last_seen": "2026-10-15",
+   "last_seances": 988,
+   "peak_seances": 988,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-09-30",
@@ -967,7 +967,7 @@
    "title_fr": "Cap Farewell",
    "release_date": "2026-07-22",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 4,
    "tmdb": {
@@ -983,7 +983,7 @@
    "title_fr": "Soleils Atikamekw",
    "release_date": "2026-07-22",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -999,8 +999,8 @@
    "title_fr": "Lydia et le vaisseau des tempêtes",
    "release_date": "2026-08-12",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 15,
+   "last_seen": "2026-10-15",
+   "last_seances": 17,
    "peak_seances": 44,
    "tmdb": {
     "status": "ok",
@@ -1015,8 +1015,8 @@
    "title_fr": "La Vie d'une femme",
    "release_date": "2026-09-09",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 282,
+   "last_seen": "2026-10-15",
+   "last_seances": 197,
    "peak_seances": 1026,
    "tmdb": {
     "status": "ok",
@@ -1031,7 +1031,7 @@
    "title_fr": "L'Inconnue",
    "release_date": "2026-08-26",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 14,
    "peak_seances": 284,
    "tmdb": {
@@ -1047,7 +1047,7 @@
    "title_fr": "Un hiver russe",
    "release_date": "2026-09-30",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 24,
    "peak_seances": 24,
    "tmdb": {
@@ -1063,7 +1063,7 @@
    "title_fr": "Nightborn",
    "release_date": "2026-07-22",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 3,
    "peak_seances": 3,
    "tmdb": {
@@ -1079,7 +1079,7 @@
    "title_fr": "Heart Of The Beast",
    "release_date": "2026-09-23",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1114,
    "peak_seances": 1121,
    "tmdb": {
@@ -1111,7 +1111,7 @@
    "title_fr": "Mutiny",
    "release_date": "2026-08-19",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 3,
    "peak_seances": 150,
    "tmdb": {
@@ -1127,7 +1127,7 @@
    "title_fr": "Charlie et les kangourous",
    "release_date": "2026-07-22",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 19,
    "peak_seances": 61,
    "tmdb": {
@@ -1143,8 +1143,8 @@
    "title_fr": "I Want Your Sex",
    "release_date": "2026-07-29",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 4,
+   "last_seen": "2026-10-15",
+   "last_seances": 3,
    "peak_seances": 6,
    "tmdb": {
     "status": "ok",
@@ -1159,8 +1159,8 @@
    "title_fr": "Pressure",
    "release_date": "2026-09-09",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 116,
+   "last_seen": "2026-10-15",
+   "last_seances": 73,
    "peak_seances": 874,
    "tmdb": {
     "status": "ok",
@@ -1175,8 +1175,8 @@
    "title_fr": "Les Ensorceleuses 2",
    "release_date": "2026-09-09",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 42,
+   "last_seen": "2026-10-15",
+   "last_seances": 28,
    "peak_seances": 451,
    "tmdb": {
     "status": "ok",
@@ -1191,7 +1191,7 @@
    "title_fr": "Le Monde à l'endroit",
    "release_date": "2026-09-30",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 62,
    "peak_seances": 63,
    "tmdb": {
@@ -1207,9 +1207,9 @@
    "title_fr": "Notre salut",
    "release_date": "2026-09-30",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
-   "last_seances": 1032,
-   "peak_seances": 1032,
+   "last_seen": "2026-10-15",
+   "last_seances": 1051,
+   "peak_seances": 1051,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-09-30",
@@ -1239,7 +1239,7 @@
    "title_fr": "Jour de chasse",
    "release_date": "2026-08-05",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -1255,7 +1255,7 @@
    "title_fr": "Lesvia",
    "release_date": "2026-09-22",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 1,
    "tmdb": {
@@ -1287,7 +1287,7 @@
    "title_fr": "Main Theme",
    "release_date": "2026-08-19",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -1302,7 +1302,7 @@
    "title_fr": "Le Jardin de Madame Hu",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 4,
    "peak_seances": 5,
    "tmdb": {
@@ -1318,8 +1318,8 @@
    "title_fr": "Adieu monde cruel",
    "release_date": "2026-09-09",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 87,
+   "last_seen": "2026-10-15",
+   "last_seances": 66,
    "peak_seances": 280,
    "tmdb": {
     "status": "ok",
@@ -1334,9 +1334,9 @@
    "title_fr": "Où vont les âmes",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
-   "last_seances": 33,
-   "peak_seances": 33,
+   "last_seen": "2026-10-15",
+   "last_seances": 34,
+   "peak_seances": 34,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-14",
@@ -1366,7 +1366,7 @@
    "title_fr": "Les Madeleines",
    "release_date": "2026-07-22",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -1396,7 +1396,7 @@
    "title_fr": "Kyma, l’onde mystérieuse",
    "release_date": "2026-08-05",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 3,
    "peak_seances": 5,
    "tmdb": {
@@ -1428,9 +1428,9 @@
    "title_fr": "Mochy",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
-   "last_seances": 704,
-   "peak_seances": 704,
+   "last_seen": "2026-10-15",
+   "last_seances": 718,
+   "peak_seances": 718,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-14",
@@ -1444,7 +1444,7 @@
    "title_fr": "Primetime",
    "release_date": "2026-09-23",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 283,
    "peak_seances": 342,
    "tmdb": {
@@ -1476,8 +1476,8 @@
    "title_fr": "Maoussi",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 7,
+   "last_seen": "2026-10-15",
+   "last_seances": 6,
    "peak_seances": 14,
    "tmdb": {
     "status": "ok",
@@ -1492,7 +1492,7 @@
    "title_fr": "Sous le ciel de Kyoto",
    "release_date": "2026-07-22",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 5,
    "tmdb": {
@@ -1508,8 +1508,8 @@
    "title_fr": "Sham",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 78,
+   "last_seen": "2026-10-15",
+   "last_seances": 70,
    "peak_seances": 194,
    "tmdb": {
     "status": "ok",
@@ -1524,7 +1524,7 @@
    "title_fr": "The Dog Stars",
    "release_date": "2026-08-26",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 9,
    "peak_seances": 442,
    "tmdb": {
@@ -1556,9 +1556,9 @@
    "title_fr": "Verity",
    "release_date": "2026-09-30",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
-   "last_seances": 542,
-   "peak_seances": 542,
+   "last_seen": "2026-10-15",
+   "last_seances": 554,
+   "peak_seances": 554,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-09-30",
@@ -1572,8 +1572,8 @@
    "title_fr": "Insidious : l'invasion du lointain",
    "release_date": "2026-08-19",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 83,
+   "last_seen": "2026-10-15",
+   "last_seances": 47,
    "peak_seances": 282,
    "tmdb": {
     "status": "ok",
@@ -1620,7 +1620,7 @@
    "title_fr": "Sur la route d'Omaha",
    "release_date": "2026-07-22",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 8,
    "peak_seances": 29,
    "tmdb": {
@@ -1636,7 +1636,7 @@
    "title_fr": "Out of Place",
    "release_date": "2026-09-24",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 1,
    "tmdb": {
@@ -1684,9 +1684,9 @@
    "title_fr": "Jailer 2",
    "release_date": "2026-10-16",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
-   "last_seances": 13,
-   "peak_seances": 13,
+   "last_seen": "2026-10-15",
+   "last_seances": 23,
+   "peak_seances": 23,
    "tmdb": {
     "status": "failed",
     "checked_at": "2026-10-14",
@@ -1699,8 +1699,8 @@
    "title_fr": "The Good Sister",
    "release_date": "2026-09-02",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 14,
+   "last_seen": "2026-10-15",
+   "last_seances": 11,
    "peak_seances": 93,
    "tmdb": {
     "status": "ok",
@@ -1715,8 +1715,8 @@
    "title_fr": "Resident Evil",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 634,
+   "last_seen": "2026-10-15",
+   "last_seances": 596,
    "peak_seances": 723,
    "tmdb": {
     "status": "ok",
@@ -1731,7 +1731,7 @@
    "title_fr": "Mikusu Modan",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 6,
    "peak_seances": 8,
    "tmdb": {
@@ -1747,9 +1747,9 @@
    "title_fr": "Low Expectations",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
-   "last_seances": 46,
-   "peak_seances": 46,
+   "last_seen": "2026-10-15",
+   "last_seances": 49,
+   "peak_seances": 49,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-14",
@@ -1763,9 +1763,9 @@
    "title_fr": "Ducobu et le fantôme de Saint-Potache",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
-   "last_seances": 1135,
-   "peak_seances": 1135,
+   "last_seen": "2026-10-15",
+   "last_seances": 1160,
+   "peak_seances": 1160,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-07",
@@ -1777,7 +1777,7 @@
    "title_fr": "Les Matins merveilleux",
    "release_date": "2026-07-29",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 8,
    "peak_seances": 46,
    "tmdb": {
@@ -1793,7 +1793,7 @@
    "title_fr": "Une aube nouvelle",
    "release_date": "2026-08-12",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 20,
    "peak_seances": 24,
    "tmdb": {
@@ -1809,7 +1809,7 @@
    "title_fr": "Les Silences de Riyad",
    "release_date": "2026-08-05",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 12,
    "tmdb": {
@@ -1825,7 +1825,7 @@
    "title_fr": "Nimrods : A Green Day Comedy",
    "release_date": "2026-09-04",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -1841,7 +1841,7 @@
    "title_fr": "The Ugly",
    "release_date": "2026-07-29",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 3,
    "peak_seances": 5,
    "tmdb": {
@@ -1857,8 +1857,8 @@
    "title_fr": "Trois adieux",
    "release_date": "2026-09-02",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 58,
+   "last_seen": "2026-10-15",
+   "last_seances": 48,
    "peak_seances": 416,
    "tmdb": {
     "status": "ok",
@@ -1873,8 +1873,8 @@
    "title_fr": "Les Contrebandiers",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 196,
+   "last_seen": "2026-10-15",
+   "last_seances": 142,
    "peak_seances": 641,
    "tmdb": {
     "status": "ok",
@@ -1889,7 +1889,7 @@
    "title_fr": "Juste pour une nuit",
    "release_date": "2026-08-12",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 11,
    "tmdb": {
@@ -1921,7 +1921,7 @@
    "title_fr": "Undertone",
    "release_date": "2026-08-12",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 2,
    "peak_seances": 5,
    "tmdb": {
@@ -1937,7 +1937,7 @@
    "title_fr": "The Paradise",
    "release_date": "2026-09-24",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 29,
    "tmdb": {
@@ -1952,8 +1952,8 @@
    "title_fr": "Billie Melody",
    "release_date": "2026-09-09",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 23,
+   "last_seen": "2026-10-15",
+   "last_seances": 19,
    "peak_seances": 213,
    "tmdb": {
     "status": "ok",
@@ -1982,7 +1982,7 @@
    "title_fr": "Oasis: Don't Look Back In Anger",
    "release_date": "2026-09-09",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -1998,9 +1998,9 @@
    "title_fr": "Minotaure",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
-   "last_seances": 350,
-   "peak_seances": 350,
+   "last_seen": "2026-10-15",
+   "last_seances": 377,
+   "peak_seances": 377,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-14",
@@ -2014,8 +2014,8 @@
    "title_fr": "Marius et le Royaume des mers",
    "release_date": "2026-08-19",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 53,
+   "last_seen": "2026-10-15",
+   "last_seances": 55,
    "peak_seances": 97,
    "tmdb": {
     "status": "ok",
@@ -2030,8 +2030,8 @@
    "title_fr": "Salvation",
    "release_date": "2026-09-02",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 25,
+   "last_seen": "2026-10-15",
+   "last_seances": 20,
    "peak_seances": 195,
    "tmdb": {
     "status": "ok",
@@ -2046,7 +2046,7 @@
    "title_fr": "Gorgonà",
    "release_date": "2026-07-22",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 2,
    "tmdb": {
@@ -2078,8 +2078,8 @@
    "title_fr": "La Fille Condor",
    "release_date": "2026-08-19",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 9,
+   "last_seen": "2026-10-15",
+   "last_seances": 5,
    "peak_seances": 42,
    "tmdb": {
     "status": "ok",
@@ -2094,7 +2094,7 @@
    "title_fr": "Les Gendarmes",
    "release_date": "2026-08-05",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 5,
    "peak_seances": 45,
    "tmdb": {
@@ -2126,7 +2126,7 @@
    "title_fr": "Des Fleurs pour Tokyo",
    "release_date": "2026-08-05",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 12,
    "tmdb": {
@@ -2142,9 +2142,9 @@
    "title_fr": "Malfaisante",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
-   "last_seances": 334,
-   "peak_seances": 334,
+   "last_seen": "2026-10-15",
+   "last_seances": 346,
+   "peak_seances": 346,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-14",
@@ -2158,7 +2158,7 @@
    "title_fr": "Mandaadi",
    "release_date": "2026-09-10",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 6,
    "tmdb": {
@@ -2173,7 +2173,7 @@
    "title_fr": "Her Private Hell",
    "release_date": "2026-09-23",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 25,
    "peak_seances": 50,
    "tmdb": {
@@ -2189,8 +2189,8 @@
    "title_fr": "Ma famille de samouraïs",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 249,
+   "last_seen": "2026-10-15",
+   "last_seances": 248,
    "peak_seances": 408,
    "tmdb": {
     "status": "ok",
@@ -2205,7 +2205,7 @@
    "title_fr": "Vvaan",
    "release_date": "2026-09-25",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 1,
    "tmdb": {
@@ -2220,9 +2220,9 @@
    "title_fr": "Ni vue, ni connue",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
-   "last_seances": 748,
-   "peak_seances": 748,
+   "last_seen": "2026-10-15",
+   "last_seances": 778,
+   "peak_seances": 778,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-07",
@@ -2236,8 +2236,8 @@
    "title_fr": "Soudain",
    "release_date": "2026-08-12",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 69,
+   "last_seen": "2026-10-15",
+   "last_seances": 62,
    "peak_seances": 257,
    "tmdb": {
     "status": "ok",
@@ -2252,8 +2252,8 @@
    "title_fr": "The Holy Boy",
    "release_date": "2026-09-02",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 10,
+   "last_seen": "2026-10-15",
+   "last_seances": 9,
    "peak_seances": 15,
    "tmdb": {
     "status": "ok",
@@ -2284,7 +2284,7 @@
    "title_fr": "Garance",
    "release_date": "2026-09-23",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1207,
    "peak_seances": 1207,
    "tmdb": {
@@ -2300,8 +2300,8 @@
    "title_fr": "Mémoire de fille",
    "release_date": "2026-09-30",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
-   "last_seances": 410,
+   "last_seen": "2026-10-15",
+   "last_seances": 420,
    "peak_seances": 436,
    "tmdb": {
     "status": "ok",
@@ -2316,7 +2316,7 @@
    "title_fr": "Raison et sentiments",
    "release_date": "2026-09-23",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 479,
    "peak_seances": 562,
    "tmdb": {
@@ -2332,9 +2332,9 @@
    "title_fr": "The Social Reckoning",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
-   "last_seances": 336,
-   "peak_seances": 336,
+   "last_seen": "2026-10-15",
+   "last_seances": 345,
+   "peak_seances": 345,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-07",
@@ -2380,8 +2380,8 @@
    "title_fr": "Hair, Paper, Water...",
    "release_date": "2026-09-09",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 13,
+   "last_seen": "2026-10-15",
+   "last_seances": 11,
    "peak_seances": 27,
    "tmdb": {
     "status": "ok",
@@ -2396,7 +2396,7 @@
    "title_fr": "Le Chantier",
    "release_date": "2026-08-05",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 3,
    "peak_seances": 4,
    "tmdb": {
@@ -2428,7 +2428,7 @@
    "title_fr": "Girl",
    "release_date": "2026-08-05",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 3,
    "peak_seances": 7,
    "tmdb": {
@@ -2444,7 +2444,7 @@
    "title_fr": "Écrire la vie : Annie Ernaux racontée par des lycéennes et des lycéens",
    "release_date": "2026-09-23",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 42,
    "peak_seances": 75,
    "tmdb": {
@@ -2460,7 +2460,7 @@
    "title_fr": "Memory Of Princess Mumbi",
    "release_date": "2026-08-26",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 3,
    "peak_seances": 21,
    "tmdb": {
@@ -2476,9 +2476,9 @@
    "title_fr": "Qui vit encore",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
-   "last_seances": 41,
-   "peak_seances": 41,
+   "last_seen": "2026-10-15",
+   "last_seances": 43,
+   "peak_seances": 43,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-14",
@@ -2508,7 +2508,7 @@
    "title_fr": "Justin le Juste",
    "release_date": "2026-09-23",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 746,
    "peak_seances": 1058,
    "tmdb": {
@@ -2522,7 +2522,7 @@
    "title_fr": "New Group",
    "release_date": "2026-08-26",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 3,
    "peak_seances": 3,
    "tmdb": {
@@ -2538,8 +2538,8 @@
    "title_fr": "Chicas tristes",
    "release_date": "2026-08-12",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 2,
+   "last_seen": "2026-10-15",
+   "last_seances": 3,
    "peak_seances": 23,
    "tmdb": {
     "status": "ok",
@@ -2554,9 +2554,9 @@
    "title_fr": "Fausse note",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
-   "last_seances": 364,
-   "peak_seances": 364,
+   "last_seen": "2026-10-15",
+   "last_seances": 375,
+   "peak_seances": 375,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-07",
@@ -2586,8 +2586,8 @@
    "title_fr": "The Sea",
    "release_date": "2026-09-09",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 10,
+   "last_seen": "2026-10-15",
+   "last_seances": 9,
    "peak_seances": 29,
    "tmdb": {
     "status": "ok",
@@ -2602,7 +2602,7 @@
    "title_fr": "Que Ton Règne Vienne - Une histoire du satanisme en France",
    "release_date": "2026-08-19",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 1,
    "tmdb": {
@@ -2633,8 +2633,8 @@
    "title_fr": "Le Triangle d'or",
    "release_date": "2026-07-29",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 9,
+   "last_seen": "2026-10-15",
+   "last_seances": 8,
    "peak_seances": 24,
    "tmdb": {
     "status": "ok",
@@ -2649,9 +2649,9 @@
    "title_fr": "La Maison de nos rêves",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
-   "last_seances": 955,
-   "peak_seances": 955,
+   "last_seen": "2026-10-15",
+   "last_seances": 981,
+   "peak_seances": 981,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-07",
@@ -2665,8 +2665,8 @@
    "title_fr": "Flush",
    "release_date": "2026-09-09",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 14,
+   "last_seen": "2026-10-15",
+   "last_seances": 13,
    "peak_seances": 25,
    "tmdb": {
     "status": "ok",
@@ -2681,7 +2681,7 @@
    "title_fr": "Face à la mer",
    "release_date": "2026-08-26",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 5,
    "peak_seances": 19,
    "tmdb": {
@@ -2697,9 +2697,9 @@
    "title_fr": "Kraken",
    "release_date": "2026-09-30",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
-   "last_seances": 224,
-   "peak_seances": 224,
+   "last_seen": "2026-10-15",
+   "last_seances": 228,
+   "peak_seances": 228,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-09-30",
@@ -2713,8 +2713,8 @@
    "title_fr": "Tombé du ciel",
    "release_date": "2026-08-12",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 416,
+   "last_seen": "2026-10-15",
+   "last_seances": 368,
    "peak_seances": 749,
    "tmdb": {
     "status": "ok",
@@ -2729,7 +2729,7 @@
    "title_fr": "Hamlet (Comédie-Française)",
    "release_date": "2026-09-15",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 11,
    "tmdb": {
@@ -2744,8 +2744,8 @@
    "title_fr": "La Nirvana",
    "release_date": "2026-08-19",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 8,
+   "last_seen": "2026-10-15",
+   "last_seances": 4,
    "peak_seances": 74,
    "tmdb": {
     "status": "ok",
@@ -2760,7 +2760,7 @@
    "title_fr": "Khalifa",
    "release_date": "2026-08-20",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -2775,8 +2775,8 @@
    "title_fr": "Une affaire turque",
    "release_date": "2026-08-12",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 10,
+   "last_seen": "2026-10-15",
+   "last_seances": 9,
    "peak_seances": 46,
    "tmdb": {
     "status": "ok",
@@ -2791,8 +2791,8 @@
    "title_fr": "Gouffres et merveilles",
    "release_date": "2026-09-02",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 7,
+   "last_seen": "2026-10-15",
+   "last_seances": 8,
    "peak_seances": 21,
    "tmdb": {
     "status": "ok",
@@ -2807,7 +2807,7 @@
    "title_fr": "La Porte des dieux",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 3,
    "peak_seances": 3,
    "tmdb": {
@@ -2839,7 +2839,7 @@
    "title_fr": "I'm Game",
    "release_date": "2026-09-03",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -2854,7 +2854,7 @@
    "title_fr": "Il était une fois le printemps",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 2,
    "peak_seances": 2,
    "tmdb": {
@@ -2869,8 +2869,8 @@
    "title_fr": "De la Comédie-Française",
    "release_date": "2026-07-22",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 59,
+   "last_seen": "2026-10-15",
+   "last_seances": 56,
    "peak_seances": 339,
    "tmdb": {
     "status": "ok",
@@ -2885,7 +2885,7 @@
    "title_fr": "South Bound",
    "release_date": "2026-08-19",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -2900,7 +2900,7 @@
    "title_fr": "La Providence et la Guitare",
    "release_date": "2026-08-19",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 10,
    "tmdb": {
@@ -2916,7 +2916,7 @@
    "title_fr": "Leviticus",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 64,
    "peak_seances": 66,
    "tmdb": {
@@ -2932,7 +2932,7 @@
    "title_fr": "Fouilles",
    "release_date": "2026-09-17",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 1,
    "tmdb": {
@@ -2947,7 +2947,7 @@
    "title_fr": "Détective Conan : L'Ange déchu de l'asphalte",
    "release_date": "2026-09-23",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 18,
    "peak_seances": 76,
    "tmdb": {
@@ -2963,8 +2963,8 @@
    "title_fr": "Le Chant des oliviers",
    "release_date": "2026-09-30",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
-   "last_seances": 108,
+   "last_seen": "2026-10-15",
+   "last_seances": 112,
    "peak_seances": 116,
    "tmdb": {
     "status": "ok",
@@ -2979,7 +2979,7 @@
    "title_fr": "Le goût du vin de palme",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 2,
    "tmdb": {
@@ -2995,7 +2995,7 @@
    "title_fr": "R. Roussil, Le Cul par Terre",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -3011,7 +3011,7 @@
    "title_fr": "Le concert d'été 2026 d'André Rieu : Viva Maastricht !",
    "release_date": "2026-08-08",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 1,
    "tmdb": {
@@ -3027,9 +3027,9 @@
    "title_fr": "Le Jour de son retour",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
-   "last_seances": 40,
-   "peak_seances": 40,
+   "last_seen": "2026-10-15",
+   "last_seances": 41,
+   "peak_seances": 41,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-14",
@@ -3043,7 +3043,7 @@
    "title_fr": "Dégel",
    "release_date": "2026-08-26",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 22,
    "peak_seances": 165,
    "tmdb": {
@@ -3059,8 +3059,8 @@
    "title_fr": "Retour au collège",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
-   "last_seances": 33,
+   "last_seen": "2026-10-15",
+   "last_seances": 34,
    "peak_seances": 50,
    "tmdb": {
     "status": "failed",
@@ -3074,7 +3074,7 @@
    "title_fr": "Li Chevalier Encre et Âme",
    "release_date": "2026-09-26",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 1,
    "tmdb": {
@@ -3103,7 +3103,7 @@
    "title_fr": "Irumudi",
    "release_date": "2026-08-21",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -3118,9 +3118,9 @@
    "title_fr": "Doraemon et le Château sous-marin",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
-   "last_seances": 134,
-   "peak_seances": 135,
+   "last_seen": "2026-10-15",
+   "last_seances": 141,
+   "peak_seances": 141,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-07",
@@ -3134,7 +3134,7 @@
    "title_fr": "Connaissance du monde : Terres d'Italie - Entre mer et montagne : Pouilles, Ombri, Dolomites",
    "release_date": "2026-09-01",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 1,
    "tmdb": {
@@ -3147,8 +3147,8 @@
    "title_fr": "Chien bleu et autres belles histoires de l'école des loisirs",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 232,
+   "last_seen": "2026-10-15",
+   "last_seances": 233,
    "peak_seances": 375,
    "tmdb": {
     "status": "failed",
@@ -3162,8 +3162,8 @@
    "title_fr": "Un grand raccourci",
    "release_date": "2026-08-12",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 24,
+   "last_seen": "2026-10-15",
+   "last_seances": 22,
    "peak_seances": 96,
    "tmdb": {
     "status": "ok",
@@ -3178,7 +3178,7 @@
    "title_fr": "Artus - Le Show XXL au cinéma",
    "release_date": "2026-09-24",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 448,
    "tmdb": {
@@ -3193,7 +3193,7 @@
    "title_fr": "Arcobaleno",
    "release_date": "2026-08-12",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 2,
    "tmdb": {
@@ -3208,8 +3208,8 @@
    "title_fr": "La Vie en relief - Jacques Henri Lartigue",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 51,
+   "last_seen": "2026-10-15",
+   "last_seances": 41,
    "peak_seances": 76,
    "tmdb": {
     "status": "ok",
@@ -3222,7 +3222,7 @@
    "title_fr": "Les Éléphants dans la brume",
    "release_date": "2026-09-23",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 306,
    "peak_seances": 358,
    "tmdb": {
@@ -3238,9 +3238,9 @@
    "title_fr": "Macbeth (Metropolitan Opera)",
    "release_date": "2026-10-17",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
-   "last_seances": 131,
-   "peak_seances": 131,
+   "last_seen": "2026-10-15",
+   "last_seances": 133,
+   "peak_seances": 133,
    "tmdb": {
     "status": "failed",
     "checked_at": "2026-10-14",
@@ -3253,8 +3253,8 @@
    "title_fr": "Così fan tutte (Metropolitan Opera)",
    "release_date": "2026-10-03",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
-   "last_seances": 17,
+   "last_seen": "2026-10-15",
+   "last_seances": 18,
    "peak_seances": 133,
    "tmdb": {
     "status": "failed",
@@ -3268,7 +3268,7 @@
    "title_fr": "Commis d'office",
    "release_date": "2026-09-09",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 2,
    "peak_seances": 3,
    "tmdb": {
@@ -3299,8 +3299,8 @@
    "title_fr": "Si tu penses bien",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 485,
+   "last_seen": "2026-10-15",
+   "last_seances": 363,
    "peak_seances": 954,
    "tmdb": {
     "status": "ok",
@@ -3315,7 +3315,7 @@
    "title_fr": "Lost in Territories",
    "release_date": "2026-07-29",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -3331,7 +3331,7 @@
    "title_fr": "Maquisards",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 5,
    "peak_seances": 8,
    "tmdb": {
@@ -3362,7 +3362,7 @@
    "title_fr": "Une musique à vivre",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 4,
    "tmdb": {
@@ -3392,8 +3392,8 @@
    "title_fr": "Lettres d'amour de ma grand-mère",
    "release_date": "2026-09-02",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 13,
+   "last_seen": "2026-10-15",
+   "last_seances": 11,
    "peak_seances": 43,
    "tmdb": {
     "status": "ok",
@@ -3408,7 +3408,7 @@
    "title_fr": "Les Vacances de Golo & Ritchie",
    "release_date": "2026-07-22",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 5,
    "tmdb": {
@@ -3435,7 +3435,7 @@
    "title_fr": "Melpomène",
    "release_date": "2026-09-30",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 11,
    "peak_seances": 26,
    "tmdb": {
@@ -3451,7 +3451,7 @@
    "title_fr": "Un amour d’épouvantail",
    "release_date": "2026-09-23",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 469,
    "peak_seances": 469,
    "tmdb": {
@@ -3483,7 +3483,7 @@
    "title_fr": "Le Cygne et l'enfant",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 168,
    "peak_seances": 211,
    "tmdb": {
@@ -3498,9 +3498,9 @@
    "title_fr": "Le Monde à l'envers",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
-   "last_seances": 351,
-   "peak_seances": 351,
+   "last_seen": "2026-10-15",
+   "last_seances": 353,
+   "peak_seances": 353,
    "tmdb": {
     "status": "failed",
     "checked_at": "2026-10-14",
@@ -3513,7 +3513,7 @@
    "title_fr": "Katy Perry: The Lifetimes Tour - Live from Paris",
    "release_date": "2026-09-03",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -3542,7 +3542,7 @@
    "title_fr": "James McNeill Whistler",
    "release_date": "2026-09-29",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 7,
    "peak_seances": 11,
    "tmdb": {
@@ -3558,7 +3558,7 @@
    "title_fr": "Haute solitude, Jean Zay prisonnier politique",
    "release_date": "2026-09-23",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 14,
    "peak_seances": 20,
    "tmdb": {
@@ -3573,7 +3573,7 @@
    "title_fr": "The Transformers: The Movie 40th Anniversary",
    "release_date": "2026-09-17",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -3588,7 +3588,7 @@
    "title_fr": "WHAM! 10 Days In China",
    "release_date": "2026-07-28",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -3617,8 +3617,8 @@
    "title_fr": "Sigma",
    "release_date": "2026-10-02",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
-   "last_seances": 3,
+   "last_seen": "2026-10-15",
+   "last_seances": 2,
    "peak_seances": 21,
    "tmdb": {
     "status": "failed",
@@ -3675,7 +3675,7 @@
    "title_fr": "Katseye : Wild Hearts",
    "release_date": "2026-08-15",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -3691,7 +3691,7 @@
    "title_fr": "Amour(s)",
    "release_date": "2026-09-02",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 8,
    "tmdb": {
@@ -3706,9 +3706,9 @@
    "title_fr": "Petite Casbah",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
-   "last_seances": 247,
-   "peak_seances": 247,
+   "last_seen": "2026-10-15",
+   "last_seances": 256,
+   "peak_seances": 256,
    "tmdb": {
     "status": "ok",
     "checked_at": "2026-10-14",
@@ -3720,7 +3720,7 @@
    "title_fr": "Retour avant 15 heures",
    "release_date": "2026-09-02",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 10,
    "peak_seances": 13,
    "tmdb": {
@@ -3736,8 +3736,8 @@
    "title_fr": "Les Vagues dans les yeux",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
-   "last_seances": 0,
+   "last_seen": "2026-10-15",
+   "last_seances": 1,
    "peak_seances": 1,
    "tmdb": {
     "status": "failed",
@@ -3749,7 +3749,7 @@
    "title_fr": "Ateez : Light The Way in cinemas",
    "release_date": "2026-08-06",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -3781,7 +3781,7 @@
    "title_fr": "Fini de rire ! L'humour politique au garde-à-vous ?",
    "release_date": "2026-09-23",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 198,
    "peak_seances": 231,
    "tmdb": {
@@ -3797,7 +3797,7 @@
    "title_fr": "No Wifi",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 1,
    "tmdb": {
@@ -3812,7 +3812,7 @@
    "title_fr": "Je veux bien",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 14,
    "peak_seances": 14,
    "tmdb": {
@@ -3827,7 +3827,7 @@
    "title_fr": "La meilleure façon, c'est par accident",
    "release_date": "2026-09-18",
    "first_seen": "2026-10-08",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -3843,7 +3843,7 @@
    "title_fr": "Daayra",
    "release_date": "2026-09-18",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 1,
    "tmdb": {
@@ -3858,7 +3858,7 @@
    "title_fr": "GHOST: 2 Big To Rig",
    "release_date": "2026-08-27",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -3874,7 +3874,7 @@
    "title_fr": "Hanuman Ansh",
    "release_date": "2026-09-16",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -3889,7 +3889,7 @@
    "title_fr": "Always Lalisa",
    "release_date": "2026-10-12",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 70,
    "tmdb": {
@@ -3905,7 +3905,7 @@
    "title_fr": "Linkin Park: Unshatter",
    "release_date": "2026-10-01",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 54,
    "tmdb": {
@@ -3921,7 +3921,7 @@
    "title_fr": "Modha Rathiri",
    "release_date": "2026-08-21",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -3936,7 +3936,7 @@
    "title_fr": "Once More",
    "release_date": "2026-08-28",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -3951,7 +3951,7 @@
    "title_fr": "Anbil Avan",
    "release_date": "2026-09-25",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 4,
    "tmdb": {
@@ -3966,7 +3966,7 @@
    "title_fr": "Queen Budapest",
    "release_date": "2026-10-08",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 140,
    "tmdb": {
@@ -3981,7 +3981,7 @@
    "title_fr": "L’idée qu’on s’en faisait",
    "release_date": "2026-09-30",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 5,
    "tmdb": {
@@ -3997,7 +3997,7 @@
    "title_fr": "NAZA",
    "release_date": "2026-10-12",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 261,
    "tmdb": {
@@ -4026,7 +4026,7 @@
    "title_fr": "Échos de l'Histoire Asiatique",
    "release_date": "2026-09-18",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -4039,7 +4039,7 @@
    "title_fr": "Horizons de l'Asie Contemporaine",
    "release_date": "2026-09-18",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -4052,7 +4052,7 @@
    "title_fr": "Danser pour Exister",
    "release_date": "2026-07-31",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -4067,7 +4067,7 @@
    "title_fr": "Kadar The Sons of the Lord",
    "release_date": "2026-09-30",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 1,
    "tmdb": {
@@ -4082,7 +4082,7 @@
    "title_fr": "Artou",
    "release_date": "2026-10-07",
    "first_seen": "2026-10-07",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 2,
    "peak_seances": 2,
    "tmdb": {
@@ -4097,7 +4097,7 @@
    "title_fr": "Al Atlas, Les Disparus d’un Royaume",
    "release_date": "2026-10-04",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 3,
    "tmdb": {
@@ -4110,7 +4110,7 @@
    "title_fr": "Dorothy",
    "release_date": "2026-09-25",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 6,
    "tmdb": {
@@ -4125,7 +4125,7 @@
    "title_fr": "Mais qui a tué Marcel ? Un été 76",
    "release_date": "2026-10-14",
    "first_seen": "2026-10-14",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 1,
    "peak_seances": 1,
    "tmdb": {
@@ -4140,7 +4140,7 @@
    "title_fr": "Meesaya Murukku 2",
    "release_date": "2026-09-25",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 2,
    "peak_seances": 26,
    "tmdb": {
@@ -4155,7 +4155,7 @@
    "title_fr": "Aaram",
    "release_date": "2026-10-02",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 2,
    "tmdb": {
@@ -4185,7 +4185,7 @@
    "title_fr": "Sous les anneaux de Saturne",
    "release_date": "2026-09-28",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 1,
    "tmdb": {
@@ -4198,7 +4198,7 @@
    "title_fr": "Imagine !",
    "release_date": "2026-09-27",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -4213,7 +4213,7 @@
    "title_fr": "Ailleurs",
    "release_date": "2026-09-20",
    "first_seen": "2026-09-23",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 0,
    "tmdb": {
@@ -4228,7 +4228,7 @@
    "title_fr": "Avarachan & Sons",
    "release_date": "2026-10-02",
    "first_seen": "2026-09-30",
-   "last_seen": "2026-10-14",
+   "last_seen": "2026-10-15",
    "last_seances": 0,
    "peak_seances": 1,
    "tmdb": {
